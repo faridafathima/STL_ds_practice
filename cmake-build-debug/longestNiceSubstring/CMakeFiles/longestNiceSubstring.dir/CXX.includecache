@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/faridafathima/Desktop/C++/LEETCODE/longestNiceSubstring/main.cpp
+iostream
+-
+vector
+-
+map
+-
+numeric
+-
+

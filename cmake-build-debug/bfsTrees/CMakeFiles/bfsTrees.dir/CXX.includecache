@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/faridafathima/Desktop/C++/LEETCODE/bfsTrees/main.cpp
+iostream
+-
+set
+-
+unordered_set
+-
+list
+-
+vector
+-
+algorithm
+-
+
